@@ -1,0 +1,6 @@
+D:\AAA\Server1\Server1\bin\Debug\Server1.exe
+D:\AAA\Server1\Server1\bin\Debug\Server1.pdb
+D:\AAA\Server1\Server1\obj\Debug\Server1.csproj.AssemblyReference.cache
+D:\AAA\Server1\Server1\obj\Debug\Server1.csproj.CoreCompileInputs.cache
+D:\AAA\Server1\Server1\obj\Debug\Server1.exe
+D:\AAA\Server1\Server1\obj\Debug\Server1.pdb
